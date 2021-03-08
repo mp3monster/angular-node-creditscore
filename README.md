@@ -3,4 +3,4 @@
 # angular-node creditscore sample app
 
 
-[link](./test)
+[link](./test/readme.md)
